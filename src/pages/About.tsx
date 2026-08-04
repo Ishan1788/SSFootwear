@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import { SectionHeading } from '../components/shared/SectionHeading';
+import { SectionHeading } from '../components/Shared/SectionHeading';
 import pawanImg from '../assets/pawan.png';
 import shyamImg from '../assets/Shyam.jpeg';
 

@@ -2,8 +2,8 @@ import { useEffect, useState, useRef } from 'react';
 import { motion, useInView } from 'framer-motion';
 import useEmblaCarousel from 'embla-carousel-react';
 import { HeroSection } from '../components/HeroSection';
-import { SectionHeading } from '../components/shared/SectionHeading';
-import { ProductCard } from '../components/shared/ProductCard';
+import { SectionHeading } from '../components/Shared/SectionHeading';
+import { ProductCard } from '../components/Shared/ProductCard';
 
 // ========== LOCAL IMAGES ==========
 import blackImg from '../assets/black.png';

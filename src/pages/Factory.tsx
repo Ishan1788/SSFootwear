@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 import { motion } from 'framer-motion';
-import { SectionHeading } from '../components/shared/SectionHeading';
+import { SectionHeading } from '../components/Shared/SectionHeading';
 
 // ========== IMPORT MACHINE IMAGES ==========
 import hydraulicImg from '../assets/Hydraulic.jpg';

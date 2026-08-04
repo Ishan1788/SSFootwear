@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import { ProductCard } from '../components/shared/ProductCard';
+import { ProductCard } from '../components/Shared/ProductCard';
 
 // ========== LOCAL IMAGES ==========
 import blackImg from '../assets/black.png';
