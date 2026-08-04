@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { useParams, Navigate } from 'react-router-dom';
-import { motion } from 'framer-motion';
+
 
 // Import the same product data (you can move it to a shared file later)
 import blackImg from '../assets/black.png';

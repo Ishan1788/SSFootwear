@@ -86,14 +86,6 @@ const categories = [
   { id: 'winter', name: 'Winter', image: gumyellowImg },
 ];
 
-const timelineSteps = [
-  { year: '1995', title: 'Founded', description: 'SS Footwear begins its journey in Kathmandu.' },
-  { year: '2000', title: 'First Factory', description: 'Opened our first manufacturing facility.' },
-  { year: '2010', title: 'Expansion', description: 'Reached 500+ dealers across Nepal.' },
-  { year: '2015', title: 'Modernisation', description: 'Introduced automated cutting and stitching.' },
-  { year: '2020', title: 'Global Standards', description: 'Achieved ISO 9001 certification.' },
-  { year: '2024', title: 'Digital Flagship', description: 'Launched our premium online presence.' },
-];
 
 const testimonials = [
   {
