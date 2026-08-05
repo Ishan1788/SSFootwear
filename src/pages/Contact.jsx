@@ -35,6 +35,18 @@ export default function Contact() {
 
             <div className="bg-surface-container-low p-6 rounded-xl border border-border">
               <span className="block font-technical text-label-technical uppercase text-primary mb-2">
+                Telephone
+              </span>
+              <a
+                href="tel:023-566043"
+                className="font-body text-body-md text-text-secondary hover:text-primary transition-colors"
+              >
+                023-566043
+              </a>
+            </div>            
+
+            <div className="bg-surface-container-low p-6 rounded-xl border border-border">
+              <span className="block font-technical text-label-technical uppercase text-primary mb-2">
                 Email
               </span>
               <a
