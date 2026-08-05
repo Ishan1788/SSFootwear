@@ -26,10 +26,10 @@ export default function Contact() {
                 Phone
               </span>
               <a
-                href="tel:+9779825907213"
+                href="tel:+9779852682070"
                 className="font-body text-body-md text-text-secondary hover:text-primary transition-colors"
               >
-                +977 982-3802030
+                +977 9852682070
               </a>
             </div>
 
@@ -38,10 +38,10 @@ export default function Contact() {
                 Email
               </span>
               <a
-                href="mailto:khetankishan04@gmail.com"
+                href="mailto:ssfootwear2065@gmail.com"
                 className="font-body text-body-md text-text-secondary hover:text-primary transition-colors"
               >
-                khetankishan04@gmail.com
+                ssfootwear2065@gmail.com
               </a>
             </div>
 
